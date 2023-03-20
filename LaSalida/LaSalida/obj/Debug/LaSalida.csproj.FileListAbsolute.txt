@@ -1,0 +1,21 @@
+C:\Users\yelo\source\repos\LaSalida\LaSalida\bin\Debug\LaSalida.exe.config
+C:\Users\yelo\source\repos\LaSalida\LaSalida\bin\Debug\LaSalida.exe
+C:\Users\yelo\source\repos\LaSalida\LaSalida\bin\Debug\LaSalida.pdb
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.csprojAssemblyReference.cache
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.Form1.resources
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.Properties.Resources.resources
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.GenerateResource.cache
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.CoreCompileInputs.cache
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.exe
+C:\Users\yelo\source\repos\LaSalida\LaSalida\obj\Debug\LaSalida.pdb
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\bin\Debug\LaSalida.exe.config
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\bin\Debug\LaSalida.exe
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\bin\Debug\LaSalida.pdb
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.AssemblyReference.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.Form1.resources
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.Properties.Resources.resources
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.GenerateResource.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.csproj.CoreCompileInputs.cache
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.exe
+C:\Users\Angel - Gera\OneDrive\Escritorio\LaSalida\LaSalida\LaSalida\obj\Debug\LaSalida.pdb
